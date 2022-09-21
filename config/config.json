@@ -1,6 +1,6 @@
 {
   "development": {
-    "url": "YOUR_URL_HERE",
+    "url": "postgres://ndhxbvhp:LmsdzsuIoOdjXAv8wAtioTH7IDhbz4Sb@tyke.db.elephantsql.com/ndhxbvhp",
     "dialect": "postgres"
   },
   "test": {
